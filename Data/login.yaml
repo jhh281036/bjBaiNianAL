@@ -1,0 +1,30 @@
+BN_test_01:
+  "username":"18610453007"
+  "password":"123456"
+BN_test_02:
+  "username":"itheima"
+  "password":"123456"
+BN_test_03:
+  "username":" 18610453007 "
+  "password":"123456"
+BN_test_04:
+  "username":"itheima"
+  "password":"123456"
+BN_test_05:
+  "username":"186104530077"
+  "password":"123456"
+BN_test_06:
+  "username":"18610453007"
+  "password":"12345"
+BN_test_07:
+  "username":"theima"
+  "password":"123456"
+BN_test_08:
+  "username":"itheima"
+  "password":"12345"
+BN_test_09:
+  "username":"123456"
+  "password":
+BN_test_010:
+  "username":""
+  "password":"123456"
